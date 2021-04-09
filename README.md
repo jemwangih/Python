@@ -1,4 +1,2 @@
-# Python
-Python code
-This is a test file
-![image](https://user-images.githubusercontent.com/81798266/114101451-5d697300-988b-11eb-84e3-2bac4b3f9055.png)
+#First qustion
+![image](https://user-images.githubusercontent.com/81798266/114128720-9a9d2780-98c2-11eb-9829-c401d4b054ed.png)
